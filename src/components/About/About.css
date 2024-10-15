@@ -1,0 +1,64 @@
+.about .main-content-img {
+  width: 100%;
+  max-width: 50%;
+}
+
+.about .active-sallers-count {
+  font-weight: 800;
+  font-size: 26px;
+}
+
+.about .active-sallers-text-style {
+  font-weight: 400;
+  font-size: 17px;
+  color: rgb(78, 78, 78);
+}
+
+.about .sales-info-container {
+  flex: 1 1 200px;
+  box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.226);
+  margin: 10px;
+}
+
+.about .phone-links i {
+  font-size: 23px;
+}
+
+.about .phone-links i:hover {
+  color: rgb(131, 131, 131);
+}
+
+.about .executive-name-style {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.about .card-container {
+  height: 100%;
+}
+
+.about .card-container img {
+  height: 250px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .about .main-content-img {
+    width: 100%;
+    max-width: none;
+  }
+
+  .about .flex-card-group {
+    /* flex-direction: column; */
+    align-items: center;
+  }
+
+  .about .sales-info-container {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .about .team-member-card {
+    margin-bottom: 20px;
+  }
+}

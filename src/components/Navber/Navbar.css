@@ -1,0 +1,72 @@
+.logo {
+  max-height: 50px;
+  width: auto;
+}
+
+.navbar .cart {
+  border-color: var(--orange);
+  transition: 0.3s ease-in-out;
+  color: var(--orange);
+}
+
+.navbar .cart:hover {
+  background-color: var(--orange);
+  color: #fff;
+}
+
+.navbar li a {
+  color: var(--blue);
+  transition: 0.3s ease-in-out;
+  font-weight: 500;
+}
+
+.navbar li a:hover {
+  color: var(--orange);
+}
+
+.btn-outline-success {
+  background-color: transparent;
+  border: 1px solid var(--orange);
+  color: var(--orange);
+  transition: 0.3s ease-in-out;
+}
+
+.btn-outline-success:hover {
+  background-color: var(--orange);
+  color: #fff;
+  border: 1px solid var(--orange);
+}
+
+.navbar {
+  z-index: 1000;
+}
+
+body {
+  padding-top: 70px;
+}
+
+
+
+
+
+
+
+.navbar .cart {
+  border-color: var(--orange);
+  transition: 0.3s ease-in-out;
+  color: var(--orange);
+}
+
+.navbar .cart:hover {
+  background-color: var(--orange);
+  color: #fff;
+}
+
+@media (max-width: 1000px) {
+  .search{
+     opacity: 0;
+    }
+ 
+}
+
+ 

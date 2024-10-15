@@ -1,0 +1,10 @@
+.banner-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.Banner {
+  margin: 80px auto;
+}

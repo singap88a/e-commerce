@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "HP Pavilion 15",
+        "price": 650,
+        "discounted_price": 600,
+        "description": "A versatile laptop with a sleek design and powerful performance.",
+        "category": "Laptops",
+        "image": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c07961071_1750x1285.jpg",
+        "stars": 4
+    },
+    {
+        "id": 2,
+        "title": "Dell Inspiron 15",
+        "price": 700,
+        "discounted_price": 650,
+        "description": "A reliable laptop suitable for work and play.",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/71dWBc815lL._AC_SL1500_.jpg",
+        "stars": 3
+    },
+    {
+        "id": 3,
+        "title": "Apple MacBook Air",
+        "price": 999,
+        "discounted_price": 950,
+        "description": "The ultra-lightweight laptop with an M1 chip.",
+        "category": "Laptops",
+        "image": "https://i5.walmartimages.com/asr/a7d2405f-988d-4bac-ad4a-07e5c36913ff_1.9c5dd7b0bb08e4573aab6a34d29dc604.jpeg",
+        "stars": 5 
+    },
+    {
+        "id": 4,
+        "title": "Lenovo IdeaPad 3",
+        "price": 550,
+        "discounted_price": 500,
+        "description": "Affordable laptop with decent performance.",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/51VXgmHMm+L._AC_SY300_SX300_.jpg",
+        "stars": 2
+    },
+    {
+        "id": 5,
+        "title": "ASUS VivoBook 14",
+        "price": 600,
+        "discounted_price": 580,
+        "description": "A stylish and lightweight laptop for everyday use.",
+        "category": "Laptops",
+        "image": "https://www.nbplaza.com.my/48490-large_default/asus-vivobook-14-a1404v-apb008wsm-14-fhd-laptop-terra-cotta-core-5-120u-16gb-512gb-ssd-intel-w11-hsm365-.jpg",
+        "stars": 4
+    },
+    {
+        "id": 6,
+        "title": "Acer Aspire 5",
+        "price": 700,
+        "discounted_price": 670,
+        "description": "A powerful laptop with a long battery life.",
+        "category": "Laptops",
+        "image": "data:image/jpeg;base64,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",
+        "stars": 3
+    },
+    {
+        "id": 7,
+        "title": "Microsoft Surface Laptop 4",
+        "price": 999,
+        "discounted_price": 950,
+        "description": "A premium laptop with exceptional design and performance.",
+        "category": "Laptops",
+        "image": "https://techshopeg.com/image/cache/catalog/29283/1-550x550w.JPG.webp",
+        "stars": 5
+    },
+    {
+        "id": 8,
+        "title": "Razer Blade Stealth 13",
+        "price": 1499,
+        "discounted_price": 1450,
+        "description": "A powerful gaming laptop with a compact design.",
+        "category": "Laptops",
+        "image": "https://hybrid.co.id/wp-content/uploads/2017/06/83f67de64959307b554bd5df7207ba00_razer-blade-stealth-01.jpg",
+        "stars": 5
+    },
+    {
+        "id": 9,
+        "title": "HP Spectre x360",
+        "price": 1299,
+        "discounted_price": 1250,
+        "description": "A high-end convertible laptop with stunning visuals.",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/71AgpORJXXL.jpg",
+        "stars": 2
+    },
+    {
+        "id": 10,
+        "title": "Lenovo Legion 5",
+        "price": 1200,
+        "discounted_price": 1150,
+        "description": "A gaming laptop with high performance and graphics.",
+        "category": "Laptops",
+        "image": "https://ennap.com/cdn/shop/files/lenovo-gaming-legion-5i-15-gen-7-hero.png?v=1698171868",
+        "stars": 3
+    },
+    {
+        "id": 11,
+        "title": "Logitech MX Master 3",
+        "price": 99,
+        "discounted_price": 89,
+        "description": "An advanced wireless mouse for productivity.",
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/51OqokqG5YL.__AC_SY300_SX300_QL70_ML2_.jpg",
+        "stars": 3
+    },
+    {
+        "id": 12,
+        "title": "Razer BlackWidow V3",
+        "price": 139,
+        "discounted_price": 129,
+        "description": "A mechanical gaming keyboard with customizable RGB.",
+        "category": "Accessories",
+        "image": "https://amyz.com.eg/storage/app/public/product/2022-09-13-63203b3b52230.png",
+        "stars": 4
+    },
+    {
+        "id": 13,
+        "title": "Apple AirPods Pro",
+        "price": 249,
+        "discounted_price": 229,
+        "description": "Wireless noise-cancelling earbuds with great sound.",
+        "category": "Accessories",
+        "image": "https://btech.com/media/catalog/product/m/t/mtjv3.jpg",
+        "stars": 5
+    },
+    {
+        "id": 14,
+        "title": "Dell UltraSharp Monitor",
+        "price": 499,
+        "discounted_price": 479,
+        "description": "A high-quality monitor for professional work.",
+        "category": "Accessories",
+        "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/peripherals/output-devices/composite-franchise-imagery/monitor/monitor-ultrasharp-family-franchise-page-1.jpg?fmt=jpg&wid=552&hei=460",
+        "stars": 4
+    },
+    {
+        "id": 15,
+        "title": "Logitech G502 HERO",
+        "price": 79,
+        "discounted_price": 69,
+        "description": "A high-performance gaming mouse.",
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/617t9rfQwsL._AC_UF1000,1000_QL80_.jpg",
+        "stars": 2
+    },
+    {
+        "id": 16,
+        "title": "Anker PowerCore 20100mAh",
+        "price": 39,
+        "discounted_price": 29,
+        "description": "A high-capacity portable charger.",
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/51K1UlFfK0L._AC_UF894,1000_QL80_.jpg",
+        "stars": 2
+    },
+    {
+        "id": 17,
+        "title": "Corsair K95 RGB Platinum",
+        "price": 199,
+        "discounted_price": 179,
+        "description": "A premium mechanical gaming keyboard.",
+        "category": "Accessories",
+        "image": "https://images.anandtech.com/doci/10866/CRSK95P_22_678x452.jpg",
+        "stars": 4
+    },
+    {
+        "id": 18,
+        "title": "Bose QuietComfort 35 II",
+        "price": 299,
+        "discounted_price": 279,
+        "description": "Wireless noise-cancelling headphones.",
+        "category": "Accessories",
+        "image": "https://961souq.com/cdn/shop/products/2_1b775789-9169-4918-a669-4f82cfd0d4b4.jpg?v=1650615844",
+        "stars": 5
+    },
+    {
+        "id": 19,
+        "title": "TP-Link AC1750 Wi-Fi Range Extender",
+        "price": 59,
+        "discounted_price": 49,
+        "description": "Boost your Wi-Fi coverage easily.",
+        "category": "Accessories",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEK48bOkHTTL5GfcRwtVpLHlFf6bOggWfTQ&s",
+        "stars": 3
+    },
+    {
+        "id": 20,
+        "title": "Samsung Galaxy Buds Live",
+        "price": 169,
+        "discounted_price": 149,
+        "description": "Stylish wireless earbuds with active noise cancellation.",
+        "category": "Accessories",
+        "image": "https://www.connecteddevices.co.za/cdn/shop/products/budslive1_700x700.jpg?v=1601737886",
+        "stars": 4
+    }
+]

@@ -1,0 +1,23 @@
+.Add_to_Cart {
+  border: none;
+  background-color: var(--orange);
+  transition: 0.3s ease-in-out;
+}
+
+.Add_to_Cart:hover {
+  background-color: orange;
+}
+
+.text-primary-Price {
+  color: var(--bule);
+}
+.btn-outline-secondary {
+  border: 1px solid var(--orange);
+}
+.btn-outline-secondary:hover {
+  background-color: var(--orange);
+  border: 1px solid var(--orange);
+}
+.ProductDetails-title {
+  color: var(--orange);
+}
